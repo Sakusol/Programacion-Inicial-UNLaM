@@ -23,4 +23,6 @@ gcc nombre_del_archivo.c -o programa
 
 ## Autor
 
+Sakusol - Estudiante de la UNLaM
+
 Trabajo práctico personal como parte de la cursada de Programación Inicial (UNLaM).
