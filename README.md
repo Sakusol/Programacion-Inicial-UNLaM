@@ -9,6 +9,7 @@ El objetivo de este repo es documentar el recorrido de la materia, organizando l
 | Carpeta | Tema |
 |---|---|
 | [`01-estructura-secuencial`](./01-estructura-secuencial) | Programas con estructura secuencial: entrada/salida de datos, operadores aritméticos, conversión de tipos |
+| [`02-estructura-decision`](./02-estructura-decision) | Programas con estructuras condicionales (if/else) para tomar decisiones según distintos casos |
 
 *(se irán agregando más carpetas a medida que avance la cursada: condicionales, bucles, arrays, funciones, punteros, etc.)*
 
