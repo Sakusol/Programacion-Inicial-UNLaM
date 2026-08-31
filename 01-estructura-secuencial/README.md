@@ -6,7 +6,7 @@ Ejercicios que trabajan programas con **estructura secuencial**: instrucciones q
 
 | Archivo | Consigna |
 |---|---|
-| `2.1.c` | Ingresa dos números enteros (el segundo distinto de cero) y calcula e informa la suma, el producto, el cociente y el resto. |
+| [`2.1.c`](./2.1.c) | Ingresa dos números enteros (el segundo distinto de cero) y calcula e informa la suma, el producto, el cociente y el resto. |
 | `2.2.c` | Ingresa la cantidad de horas trabajadas y el valor por hora de un empleado, y determina su sueldo. |
 | `2.3.c` | Ingresa las notas de dos evaluaciones de un alumno y determina la nota promedio. |
 | `2.4.c` | Ingresa una medida en pies y la convierte a yardas, pulgadas, centímetros y metros. |
